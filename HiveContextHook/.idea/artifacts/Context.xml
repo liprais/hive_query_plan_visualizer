@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Context">
+    <output-path>$PROJECT_DIR$/out/artifacts/Context</output-path>
+    <root id="archive" name="Context.jar">
+      <element id="library" level="project" name="hive-exec-0.14.0" />
+      <element id="module-output" name="HiveContextHook" />
+    </root>
+  </artifact>
+</component>

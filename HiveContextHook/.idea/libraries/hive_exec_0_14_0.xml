@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="hive-exec-0.14.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../apache-hive-0.14.0-bin/lib/hive-exec-0.14.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../apache-hive-0.14.0-bin/lib/hive-exec-0.14.0.jar!/" />
+    </SOURCES>
+  </library>
+</component>
